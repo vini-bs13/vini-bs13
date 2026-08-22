@@ -15,7 +15,7 @@ Meu nome é Vinícius e estou cursando Análise e Desenvolvimento de Sistemas (3
     alt='git'
     title='git'
     width='50px'
-    style='padding-right: 10px;'    
+    style='margin-right: 10px;'    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
 />
 
@@ -25,7 +25,7 @@ Meu nome é Vinícius e estou cursando Análise e Desenvolvimento de Sistemas (3
     alt='git'
     title='git'
     width='50px'
-    style='padding-right: 10px;'  
+    style='margin-right: 10px; background-color: white;'  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
 />
 
@@ -35,7 +35,7 @@ Meu nome é Vinícius e estou cursando Análise e Desenvolvimento de Sistemas (3
     alt='git'
     title='git'
     width='50px'
-    style='padding-right: 10px;'  
+    style='margin-right: 10px;'  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 
@@ -44,7 +44,7 @@ Meu nome é Vinícius e estou cursando Análise e Desenvolvimento de Sistemas (3
     alt='git'
     title='git'
     width='50px'
-    style='padding-right: 10px;'
+    style='margin-right: 10px;'
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"          
 />
 
@@ -53,7 +53,7 @@ Meu nome é Vinícius e estou cursando Análise e Desenvolvimento de Sistemas (3
     alt='git'
     title='git'
     width='50px'
-    style='padding-right: 10px;'  
+    style='margin-right: 10px;'  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
 />
 
@@ -62,7 +62,7 @@ Meu nome é Vinícius e estou cursando Análise e Desenvolvimento de Sistemas (3
     alt='git'
     title='git'
     width='50px'
-    style='padding-right: 10px;'  
+    style='margin-right: 10px;'  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
@@ -71,7 +71,7 @@ Meu nome é Vinícius e estou cursando Análise e Desenvolvimento de Sistemas (3
     alt='git'
     title='git'
     width='50px'
-    style='padding-right: 10px;'  
+    style='margin-right: 10px; background-color: white;'  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 
@@ -89,15 +89,15 @@ Meu nome é Vinícius e estou cursando Análise e Desenvolvimento de Sistemas (3
     align='left'
     alt='Status Github'
     height='200'
-    style='padding: 10px;'
-    src='https://github-stats-extended.vercel.app/api?username=vini-bs13&theme=merko&show_icons=true&locale=pt-br'
+    style='margin: 10px;'
+    src='https://github-stats-extended.vercel.app/api?username=vini-bs13&theme=merko&show_icons=true&locale=pt-br&include_all_comits=true'
 />
 
 <img
     align='left'
     alt='Status Github'
     height='200'
-    style='padding: 10px;'
+    style='margin: 10px;'
     src='https://github-stats-extended.vercel.app/api/top-langs/?username=vini-bs13&theme=merko&layout=donut-vertical&custom_title=Linguagens'
 />
 
