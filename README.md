@@ -22,8 +22,8 @@ Meu nome é Vinícius e estou cursando Análise e Desenvolvimento de Sistemas (3
 
 <img 
     align='left'
-    alt='git'
-    title='git'
+    alt='GitHub'
+    title='GitHub'
     width='50px'
     style='margin-right: 10px; background-color: white;'  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
@@ -32,8 +32,8 @@ Meu nome é Vinícius e estou cursando Análise e Desenvolvimento de Sistemas (3
 
 <img
     align='left'
-    alt='git'
-    title='git'
+    alt='java'
+    title='java'
     width='50px'
     style='margin-right: 10px;'  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
@@ -41,8 +41,8 @@ Meu nome é Vinícius e estou cursando Análise e Desenvolvimento de Sistemas (3
 
 <img
     align='left'
-    alt='git'
-    title='git'
+    alt='css'
+    title='css'
     width='50px'
     style='margin-right: 10px;'
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"          
@@ -50,8 +50,8 @@ Meu nome é Vinícius e estou cursando Análise e Desenvolvimento de Sistemas (3
 
 <img
     align='left'
-    alt='git'
-    title='git'
+    alt='html5'
+    title='html'
     width='50px'
     style='margin-right: 10px;'  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
@@ -59,8 +59,8 @@ Meu nome é Vinícius e estou cursando Análise e Desenvolvimento de Sistemas (3
 
 <img
     align='left'
-    alt='git'
-    title='git'
+    alt='JavaScript'
+    title='js'
     width='50px'
     style='margin-right: 10px;'  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
@@ -68,8 +68,8 @@ Meu nome é Vinícius e estou cursando Análise e Desenvolvimento de Sistemas (3
 
 <img
     align='left'
-    alt='git'
-    title='git'
+    alt='Linux'
+    title='linux'
     width='50px'
     style='margin-right: 10px; background-color: white;'  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
