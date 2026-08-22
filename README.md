@@ -1,6 +1,6 @@
-# Vinícius Borges da Silva 😀👋🐱‍💻
+# Vinícius Borges da Silva 🧐👋
 
-**Desenvolvedor🐱‍💻**
+**Desenvolvedor🤯**
 
 **Resumo**
 
